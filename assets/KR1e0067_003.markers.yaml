@@ -1907,6 +1907,7 @@ markers:
       ', id: KR1e0067_krp_003-bkkkrnewl403}
   - {type: line-break, offset: 7002, content: '', id: KR1e0067_WYG_003-23a08}
   - {type: punctuation, offset: 7014, content: (, id: KR1e0067_krp_003-bkkpn1}
+  - {type: voice, offset: 7014, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 7015, content: /, id: KR1e0067_krp_003-bkkpn2}
   - {type: punctuation, offset: 7015, content: ), id: KR1e0067_krp_003-bkkpn3}
   - {type: indent, offset: 7015, content: 　　　　　　　, id: KR1e0067_krp_003-bkkind7}
@@ -2635,6 +2636,7 @@ markers:
   - {type: line-break, offset: 9571, content: '', id: KR1e0067_WYG_003-31b04}
   - {type: indent, offset: 9571, content: 　, id: KR1e0067_krp_003-bkkind38}
   - {type: punctuation, offset: 9584, content: (, id: KR1e0067_krp_003-bkkpn4}
+  - {type: voice, offset: 9584, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 9586, content: /, id: KR1e0067_krp_003-bkkpn5}
   - {type: punctuation, offset: 9587, content: ), id: KR1e0067_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 9592, content: '
@@ -2643,6 +2645,7 @@ markers:
   - {type: line-break, offset: 9592, content: '', id: KR1e0067_WYG_003-31b05}
   - {type: indent, offset: 9592, content: 　, id: KR1e0067_krp_003-bkkind39}
   - {type: punctuation, offset: 9599, content: (, id: KR1e0067_krp_003-bkkpn7}
+  - {type: voice, offset: 9599, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 9601, content: /, id: KR1e0067_krp_003-bkkpn8}
   - {type: punctuation, offset: 9602, content: ), id: KR1e0067_krp_003-bkkpn9}
   - {type: substitution, offset: 9606, original: 偪, replacement: 逼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17438}}
@@ -4059,4 +4062,4 @@ markers:
 
       ', id: KR1e0067_krp_003-bkkkrnewl845}
   back: []
-hash: sha256:8d8835af5deb9c1b0d8fbb95a5966d3786bac36e7abfdd7b426647b696a9d7c5
+hash: sha256:e8b09db7610010efa0be54e2ee7e1efcc2c1ab6348d527bf430c29f80bc2ce65
